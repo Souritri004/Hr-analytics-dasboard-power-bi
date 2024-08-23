@@ -1,1 +1,2 @@
-# Hr-analytics-dasboard-power-bi
+# HR Analytics Dashboard using Power BI
+This repository contains a comprehensive HR analytics dashboard built with Power BI. The dashboard visualizes key HR metrics, including attrition rates segmented by gender, age, years at the company, education level, and job satisfaction. The goal is to provide actionable insights to improve employee retention and overall satisfaction within the organization. Explore the Power BI reports to understand workforce trends and make data-driven decisions.
